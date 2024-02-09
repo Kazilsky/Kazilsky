@@ -27,9 +27,11 @@ src="https://img.shields.io/github/followers/Kazilsky?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Kazilsky"><img src="https://github-readme-stats.vercel.app/api?username=Kazilsky&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kazilsky's GitHub stats" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kazilsky&show_icons=true&theme=tokyonight)
 
-<a href="https://github.com/Kazilsky" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazilsky&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazilsky&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kazilsky)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
 
 <b>Top Repositories</b>
 
