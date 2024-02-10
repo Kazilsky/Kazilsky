@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/Kazilsky?logo=github&style=for-the-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazilsky&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kazilsky)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kazilsky&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Top Repositories</b>
 
