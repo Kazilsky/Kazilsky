@@ -6,7 +6,7 @@ Mass programmer
 
 * 🌍  I'm based in Russia??
 * ✉️  You can contact me at [mk9151341600@gmail.com](mailto:mk9151341600@gmail.com)
-* 🚀  I'm currently working on [Petal](http://https://github.com/Kazilsky/Petal)
+* 🚀  I'm currently working on [Petal](https://github.com/Kazilsky/Petal)
 * 🧠  I'm learning nodejs, python, c#, godot (don't hit me, please), Framework: Tensorflow, openAI, NumPy, DiscordAPI (all 3 languages) and other small frameworks.
 * ⚡  Teenager, trying to learn more.
 
